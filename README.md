@@ -39,3 +39,7 @@ Enter your note (type 'END' in a new line to finish):
 Today I learned Java File I/O.
 END
 Note saved successfully!
+
+✨ Author
+Megha Rathi
+Made with ❤️ using Java
